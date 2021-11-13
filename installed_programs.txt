@@ -1,0 +1,80 @@
+Name=AMD Chipset Software, Version=3.10.22.706, Publisher=Advanced Micro Devices, Inc. 
+Name=Google Chrome, Version=95.0.4638.69, Publisher=Google LLC 
+Name=Internet Download Manager, Version=6.39.8, Publisher=Tonec Inc. 
+Name=Microsoft Edge, Version=95.0.1020.44, Publisher=Microsoft Corporation 
+Name=Microsoft Edge Update, Version=1.3.153.47, Publisher=undefined 
+Name=Microsoft Visual C++ 2019 X86 Minimum Runtime - 14.22.27821, Version=14.22.27821, Publisher=Microsoft Corporation 
+Name=Microsoft Visual C++ 2019 X86 Additional Runtime - 14.22.27821, Version=14.22.27821, Publisher=Microsoft Corporation 
+Name=Python Launcher, Version=3.10.7581.0, Publisher=Python Software Foundation 
+Name=Microsoft Visual C++ 2015-2019 Redistributable (x86) - 14.22.27821, Version=14.22.27821.0, Publisher=Microsoft Corporation 
+Name=Microsoft Visual C++ 2015-2019 Redistributable (x64) - 14.22.27821, Version=14.22.27821.0, Publisher=Microsoft Corporation 
+Name=AMD PCI Driver, Version=1.0.0.83, Publisher=Advanced Micro Devices, Inc. 
+Name=Office 16 Click-to-Run Extensibility Component, Version=16.0.11328.20158, Publisher=Microsoft Corporation 
+Name=Office 16 Click-to-Run Localization Component, Version=16.0.11328.20158, Publisher=Microsoft Corporation 
+Name=AMD PSP Driver, Version=5.17.0.0, Publisher=Advanced Micro Devices, Inc. 
+Name=AMD Ryzen Balanced Driver, Version=7.0.4.4, Publisher=Advanced Micro Devices, Inc. 
+Name=AMD SBxxx SMBus Driver, Version=5.12.0.38, Publisher=Advanced Micro Devices, Inc. 
+Name=Promontory_GPIO Driver, Version=2.0.1.0, Publisher=Advanced Micro Devices, Inc. 
+Name=AMD_Chipset_Drivers, Version=3.10.22.706, Publisher=Advanced Micro Devices, Inc. 
+Name=AMD GPIO2 Driver, Version=2.2.0.130, Publisher=Advanced Micro Devices, Inc. 
+Name=7-Zip 19.00 (x64), Version=19.00, Publisher=Igor Pavlov 
+Name=Git, Version=2.33.1, Publisher=The Git Development Community 
+Name=Microsoft Office Professional Plus 2019 - en-us, Version=16.0.11328.20158, Publisher=Microsoft Corporation 
+Name=Microsoft Visual C++ 2019 X64 Minimum Runtime - 14.22.27821, Version=14.22.27821, Publisher=Microsoft Corporation 
+Name=Python 3.10.0 Add to Path (64-bit), Version=3.10.150.0, Publisher=Python Software Foundation 
+Name=Python 3.10.0 Documentation (64-bit), Version=3.10.150.0, Publisher=Python Software Foundation 
+Name=Microsoft Update Health Tools, Version=2.84.0.0, Publisher=Microsoft Corporation 
+Name=Python 3.10.0 Utility Scripts (64-bit), Version=3.10.150.0, Publisher=Python Software Foundation 
+Name=Python 3.10.0 Test Suite (64-bit), Version=3.10.150.0, Publisher=Python Software Foundation 
+Name=Microsoft Visual C++ 2019 X64 Additional Runtime - 14.22.27821, Version=14.22.27821, Publisher=Microsoft Corporation 
+Name=KMSpico, Version=undefined, Publisher=undefined 
+Name=Office 16 Click-to-Run Licensing Component, Version=16.0.11328.20158, Publisher=Microsoft Corporation 
+Name=Office 16 Click-to-Run Extensibility Component 64-bit Registration, Version=16.0.11328.20158, Publisher=Microsoft Corporation 
+Name=Python 3.10.0 Development Libraries (64-bit), Version=3.10.150.0, Publisher=Python Software Foundation 
+Name=Python 3.10.0 Tcl/Tk Support (64-bit), Version=3.10.150.0, Publisher=Python Software Foundation 
+Name=Python 3.10.0 Core Interpreter (64-bit), Version=3.10.150.0, Publisher=Python Software Foundation 
+Name=Windows PC Health Check, Version=3.2.2110.14001, Publisher=Microsoft Corporation 
+Name=NVIDIA Ansel, Version=7.1.678.700, Publisher=NVIDIA Corporation 
+Name=NVIDIA Control Panel 465.89, Version=465.89, Publisher=NVIDIA Corporation 
+Name=NVIDIA Graphics Driver 465.89, Version=465.89, Publisher=NVIDIA Corporation 
+Name=NVIDIA GeForce Experience 3.21.0.36, Version=3.21.0.36, Publisher=NVIDIA Corporation 
+Name=NVIDIA Optimus Update 38.0.6.0, Version=38.0.6.0, Publisher=NVIDIA Corporation 
+Name=NVIDIA PhysX System Software 9.19.0218, Version=9.19.0218, Publisher=NVIDIA Corporation 
+Name=NVIDIA Update 38.0.6.0, Version=38.0.6.0, Publisher=NVIDIA Corporation 
+Name=NVIDIA FrameView SDK 1.1.4923.29548709, Version=1.1.4923.29548709, Publisher=NVIDIA Corporation 
+Name=NVIDIA SHIELD Streaming, Version=7.1.29457609, Publisher=NVIDIA Corporation 
+Name=NVIDIA HD Audio Driver 1.3.38.40, Version=1.3.38.40, Publisher=NVIDIA Corporation 
+Name=NVIDIA Install Application, Version=2.1002.353.0, Publisher=NVIDIA Corporation 
+Name=NVIDIA ABHub, Version=14.3.61.0, Publisher=NVIDIA Corporation 
+Name=NVIDIA Backend, Version=38.0.6.0, Publisher=NVIDIA Corporation 
+Name=NVIDIA Container, Version=1.27, Publisher=NVIDIA Corporation 
+Name=NVIDIA TelemetryApi helper for NvContainer, Version=1.27, Publisher=NVIDIA Corporation 
+Name=NVIDIA LocalSystem Container, Version=1.27, Publisher=NVIDIA Corporation 
+Name=NVIDIA Message Bus for NvContainer, Version=1.27, Publisher=NVIDIA Corporation 
+Name=NVAPI Monitor plugin for NvContainer, Version=1.27, Publisher=NVIDIA Corporation 
+Name=NVIDIA NetworkService Container, Version=1.27, Publisher=NVIDIA Corporation 
+Name=NVIDIA Session Container, Version=1.27, Publisher=NVIDIA Corporation 
+Name=NVIDIA User Container, Version=1.27, Publisher=NVIDIA Corporation 
+Name=NVIDIA Display MessageBus, Version=465.89, Publisher=NVIDIA Corporation 
+Name=NVIDIA Display Container, Version=1.28, Publisher=NVIDIA Corporation 
+Name=NVIDIA Display Container LS, Version=1.28, Publisher=NVIDIA Corporation 
+Name=NVIDIA Display Watchdog Plugin, Version=1.28, Publisher=NVIDIA Corporation 
+Name=NVIDIA Display Session Container, Version=1.28, Publisher=NVIDIA Corporation 
+Name=NvModuleTracker, Version=6.14.24033.38719, Publisher=NVIDIA Corporation 
+Name=NVIDIA NodeJS, Version=3.21.0.36, Publisher=NVIDIA Corporation 
+Name=NVIDIA Watchdog Plugin for NvContainer, Version=1.27, Publisher=NVIDIA Corporation 
+Name=NVIDIA Telemetry Client, Version=14.3.61.0, Publisher=NVIDIA Corporation 
+Name=NVIDIA Virtual Host Controller, Version=3.04.0.1, Publisher=NVIDIA Corporation 
+Name=Nvidia Share, Version=3.21.0.36, Publisher=NVIDIA Corporation 
+Name=NVIDIA ShadowPlay 3.21.0.36, Version=3.21.0.36, Publisher=NVIDIA Corporation 
+Name=NVIDIA SHIELD Wireless Controller Driver, Version=3.21.0.14, Publisher=NVIDIA Corporation 
+Name=NVIDIA Update Core, Version=38.0.6.0, Publisher=NVIDIA Corporation 
+Name=NVIDIA USBC Driver 1.46.831.832, Version=1.46.831.832, Publisher=NVIDIA Corporation 
+Name=NVIDIA Virtual Audio 4.13.0.0, Version=4.13.0.0, Publisher=NVIDIA Corporation 
+Name=Python 3.10.0 Standard Library (64-bit), Version=3.10.150.0, Publisher=Python Software Foundation 
+Name=Python 3.10.0 pip Bootstrap (64-bit), Version=3.10.150.0, Publisher=Python Software Foundation 
+Name=Python 3.10.0 Executables (64-bit), Version=3.10.150.0, Publisher=Python Software Foundation 
+Name=Microsoft OneDrive, Version=21.205.1003.0005, Publisher=Microsoft Corporation 
+Name=Python 3.10.0 (64-bit), Version=3.10.150.0, Publisher=Python Software Foundation 
+Name=Microsoft Visual Studio Code (User), Version=1.62.2, Publisher=Microsoft Corporation 
+Number of installed apps: 79
